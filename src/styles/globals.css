@@ -23,3 +23,33 @@
 
 }
 
+.custom-underline a{
+  display: block;
+  border-bottom: 2px solid #00717f;
+  display: inline;
+  padding:bottom 2px;
+}
+
+.move-on-hover {
+  transition: 0.3s;
+  transform: translateY(4px);
+  box-shadow: 0 0 20px rgba(33,33,33,.2);
+}
+.move-on-hover:hover {
+  transform: translateY(0px);
+  box-shadow: 0 0 40px rgba(33,33,33,.2);
+}
+
+.fadeIn {
+  opacity: 0;
+  animation: fadeInAnimation 1s ease-in forwards;
+}
+
+@keyframes fadeInAnimation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
