@@ -71,7 +71,7 @@ export default function Home() {
               </p>
               <p className="mt-5">
                 Outside of school and work, I enjoy reading webtoons, hanging
-                out with friends, and flip computers.
+                out with friends, and watching anime.
               </p>
               <p className="mt-5">
                 I am currently looking for Summer 2024 opportunities! If you
