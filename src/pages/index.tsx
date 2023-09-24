@@ -61,9 +61,9 @@ export default function Home() {
               <a href="https://uwaterloo.ca/" target="_blank">
                 University of Waterloo
               </a>{" "}
-              and am interested in full stack engineering and machine learning.
-              Previously, I have intered at Inossem Canada Inc. working as a
-              Mobile App Developer working in their warehouse management app.
+              and am interested in full stack development and machine learning.
+              Previously, I have interned at Inossem Canada Inc. working as a
+              Mobile App Developer on their warehouse management app.
               <p className="mt-5">
                 Some things I am currently working on are: side projects,
                 building a web app for my tutoring company, and learning new
