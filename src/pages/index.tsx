@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Inter } from "next/font/google";
 import { Poppins } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
-import i from "../pages/msc/IMG_2117_3.jpg";
+import i from "@/pages/msc/IMG_2117_3.jpg";
 
 //icons
 import { FaLinkedinIn } from "react-icons/fa";
@@ -61,21 +61,14 @@ export default function Home() {
               <a href="https://uwaterloo.ca/" target="_blank">
                 University of Waterloo
               </a>{" "}
-              and am interested in full stack development and machine learning.
-              Previously, I have interned at Inossem Canada Inc. working as a
-              Mobile App Developer on their warehouse management app.
+              and  an incoming Data Science Intern at Questrade. I have previously interned at Inossem Canada Inc as a Mobile App Developer.
+              
               <p className="mt-5">
-                Some things I am currently working on are: side projects,
-                building a web app for my tutoring company, and learning new
-                tech.
+                Outside of school and work, you will find me reading webtoons, hanging
+                out with friends, or queuing 5 man with the boys.
               </p>
               <p className="mt-5">
-                Outside of school and work, I enjoy reading webtoons, hanging
-                out with friends, and watching anime.
-              </p>
-              <p className="mt-5">
-                I am currently looking for Summer 2024 opportunities! If you
-                would like to chat, let&apos;s connect through{" "}
+                If you would like to chat, let&apos;s connect through{" "}
                 <a href="https://www.linkedin.com/in/eqiu/" target="_blank">
                   LinkedIn
                 </a>{" "}
