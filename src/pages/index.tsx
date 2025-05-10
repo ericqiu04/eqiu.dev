@@ -61,11 +61,11 @@ export default function Home() {
               <a href="https://uwaterloo.ca/" target="_blank">
                 University of Waterloo
               </a>{" "}
-              and  an incoming Data Science Intern at Questrade. I have previously interned at Inossem Canada Inc as a Mobile App Developer.
+              interested in full stack engineering and mobile development. In the past, I have interned at Microart, Questrade, and Inossem.
               
               <p className="mt-5">
                 Outside of school and work, you will find me reading webtoons, hanging
-                out with friends, or queuing 5 man with the boys.
+                out with friends, or queuing 5 stack with the boys.
               </p>
               <p className="mt-5">
                 If you would like to chat, let&apos;s connect through{" "}
