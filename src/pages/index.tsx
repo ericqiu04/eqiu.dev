@@ -41,7 +41,7 @@ export default function Home() {
                     <TbBrandGithub size = {30}/>
                   </button>
                 </a>
-                <a href="/Eric_Qiu_Resume_Summer_2024.pdf" target = "_blank">
+                <a href="/Eric_Qiu_Resume.pdf" target = "_blank">
                   <button className="bg-cyan-600 hover:bg-cyan-700 text-white font-bold p-2 rounded-full mr-2 move-on-hover">
                     <HiDocumentText size = {30}/>
                   </button>
