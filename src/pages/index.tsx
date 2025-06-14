@@ -61,6 +61,7 @@ export default function Home() {
               <a href="https://uwaterloo.ca/" target="_blank">
                 University of Waterloo
               </a>{" "}
+              and incoming Software Engineer at Faire, 
               interested in full stack engineering and mobile development. In the past, I have interned at Microart, Questrade, and Inossem.
               
               <p className="mt-5">
